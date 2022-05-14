@@ -1,7 +1,0 @@
-E:\ITMO\TEST\ITMO.DevFound2022_№8\ITMO.DevFound2022.MIN_MAXCSApp\bin\Debug\ITMO.DevFound2022.MIN_MAXCSApp.exe.config
-E:\ITMO\TEST\ITMO.DevFound2022_№8\ITMO.DevFound2022.MIN_MAXCSApp\bin\Debug\ITMO.DevFound2022.MIN_MAXCSApp.exe
-E:\ITMO\TEST\ITMO.DevFound2022_№8\ITMO.DevFound2022.MIN_MAXCSApp\bin\Debug\ITMO.DevFound2022.MIN_MAXCSApp.pdb
-E:\ITMO\TEST\ITMO.DevFound2022_№8\ITMO.DevFound2022.MIN_MAXCSApp\obj\Debug\ITMO.DevFound2022.MIN_MAXCSApp.csprojAssemblyReference.cache
-E:\ITMO\TEST\ITMO.DevFound2022_№8\ITMO.DevFound2022.MIN_MAXCSApp\obj\Debug\ITMO.DevFound2022.MIN_MAXCSApp.csproj.CoreCompileInputs.cache
-E:\ITMO\TEST\ITMO.DevFound2022_№8\ITMO.DevFound2022.MIN_MAXCSApp\obj\Debug\ITMO.DevFound2022.MIN_MAXCSApp.exe
-E:\ITMO\TEST\ITMO.DevFound2022_№8\ITMO.DevFound2022.MIN_MAXCSApp\obj\Debug\ITMO.DevFound2022.MIN_MAXCSApp.pdb
