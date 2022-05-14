@@ -1,7 +1,0 @@
-E:\ITMO\TEST\ITMO.DevFound2022\ITMO.DevFound2022.StrengthCSApp\bin\Debug\ITMO.DevFound2022.StrengthCSApp.exe.config
-E:\ITMO\TEST\ITMO.DevFound2022\ITMO.DevFound2022.StrengthCSApp\bin\Debug\ITMO.DevFound2022.StrengthCSApp.exe
-E:\ITMO\TEST\ITMO.DevFound2022\ITMO.DevFound2022.StrengthCSApp\bin\Debug\ITMO.DevFound2022.StrengthCSApp.pdb
-E:\ITMO\TEST\ITMO.DevFound2022\ITMO.DevFound2022.StrengthCSApp\obj\Debug\ITMO.DevFound2022.StrengthCSApp.csprojAssemblyReference.cache
-E:\ITMO\TEST\ITMO.DevFound2022\ITMO.DevFound2022.StrengthCSApp\obj\Debug\ITMO.DevFound2022.StrengthCSApp.csproj.CoreCompileInputs.cache
-E:\ITMO\TEST\ITMO.DevFound2022\ITMO.DevFound2022.StrengthCSApp\obj\Debug\ITMO.DevFound2022.StrengthCSApp.exe
-E:\ITMO\TEST\ITMO.DevFound2022\ITMO.DevFound2022.StrengthCSApp\obj\Debug\ITMO.DevFound2022.StrengthCSApp.pdb
