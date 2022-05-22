@@ -1,7 +1,0 @@
-E:\ITMO\TEST1\Labs\Lab05\Starter\ITMO.CSCourse2022\ITMO.CSCourse2022.Utils\obj\Debug\ITMO.CSCourse2022.Utils.csprojAssemblyReference.cache
-E:\ITMO\TEST1\Labs\Lab05\Starter\ITMO.CSCourse2022\ITMO.CSCourse2022.Utils\obj\Debug\ITMO.CSCourse2022.Utils.csproj.CoreCompileInputs.cache
-E:\ITMO\TEST1\Labs\Lab05\Starter\ITMO.CSCourse2022\ITMO.CSCourse2022.Utils\bin\Debug\ITMO.CSCourse2022.Utils.exe.config
-E:\ITMO\TEST1\Labs\Lab05\Starter\ITMO.CSCourse2022\ITMO.CSCourse2022.Utils\bin\Debug\ITMO.CSCourse2022.Utils.exe
-E:\ITMO\TEST1\Labs\Lab05\Starter\ITMO.CSCourse2022\ITMO.CSCourse2022.Utils\bin\Debug\ITMO.CSCourse2022.Utils.pdb
-E:\ITMO\TEST1\Labs\Lab05\Starter\ITMO.CSCourse2022\ITMO.CSCourse2022.Utils\obj\Debug\ITMO.CSCourse2022.Utils.exe
-E:\ITMO\TEST1\Labs\Lab05\Starter\ITMO.CSCourse2022\ITMO.CSCourse2022.Utils\obj\Debug\ITMO.CSCourse2022.Utils.pdb
